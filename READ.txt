@@ -1,0 +1,8 @@
+The E-commerce clothing review
+
+This is a simple sentiment analysis check on the provided data. The goal was to check preferences
+of dress lovers with ratings higher than 3 and of the age gap 30-65 years. 
+The output shows common words used to describe the clothes they liked. 
+
+Assumptions made were that the buyers were all the wearers of the cloth, the ratings below 4 were 
+of dresses not liked.
